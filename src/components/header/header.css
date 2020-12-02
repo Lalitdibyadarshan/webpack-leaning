@@ -1,0 +1,6 @@
+h1 {
+    color: gray;
+    border: 2px dashed;
+    width: max-content;
+    padding: 1rem;
+}

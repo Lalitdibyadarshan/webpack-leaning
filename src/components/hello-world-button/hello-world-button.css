@@ -1,0 +1,11 @@
+.text {
+    font-weight: bold;
+    color: chocolate; 
+}
+
+button {
+    font-size: 20px;
+    padding: 7px 15px;
+    background-color: antiquewhite;
+    outline: none;
+}

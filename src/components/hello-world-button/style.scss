@@ -1,0 +1,9 @@
+$primary-color: antiquewhite;
+$font-size: 20px;
+
+button {
+    font-size: $font-size;
+    padding: 7px 15px;
+    background-color: $primary-color;
+    outline: none;
+}
